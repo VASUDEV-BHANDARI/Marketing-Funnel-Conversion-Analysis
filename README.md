@@ -5,8 +5,7 @@ An end-to-end data analytics project combining **Machine Learning (Python)** and
 ---
 
 ## 🚀 Live Dashboard  
-👉 https://app.powerbi.com/view?r=eyJrIjoiM2JjOWQ0ZjgtY2E1Yy00YTNlLWI5NTMtNzJkZjIzZjI4Y2E5IiwidCI6ImE2Nzc2NDI4LWZiNmItNGJkNC1hOWM1LWVjY2U2OT  
-
+[![View Dashboard](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?style=for-the-badge&logo=powerbi)](https://app.powerbi.com/view?r=eyJrIjoiM2JjOWQ0ZjgtY2E1Yy00YTNlLWI5NTMtNzJkZjIzZjI4Y2E5IiwidCI6ImE2Nzc2NDI4LWZiNmItNGJkNC1hOWM1LWVjY2U2OT)
 ---
 
 ## 🎯 Objective  
@@ -70,9 +69,6 @@ Predict customer conversion and identify key influencing features
 4. Model Building  
 5. Insight Generation  
 6. Dashboard Development  
-
----
-
 
 ---
 
